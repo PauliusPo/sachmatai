@@ -1,0 +1,26 @@
+.lenta {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background: red;
+    margin-top: 100px;
+    margin-left: calc( (100% - 500px) / 2);
+    border: solid 3px black; 
+}
+.Nelyginiai-stulpeliai{
+    display: inline-block;
+    float: left;
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    
+}
+.Lyginiai-stulpeliai{
+    display: inline-block;
+    float: left;
+    width: 250px;
+    height: 250px;;
+    background-color: black;
+    
+}
+
