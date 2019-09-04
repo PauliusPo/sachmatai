@@ -10,16 +10,16 @@
 .Nelyginiai-stulpeliai{
     display: inline-block;
     float: left;
-    width: 250px;
-    height: 250px;
+    width: 62.5px;
+    height: 62.5px;
     background-color: white;
     
 }
 .Lyginiai-stulpeliai{
     display: inline-block;
     float: left;
-    width: 250px;
-    height: 250px;;
+    width: 62.5px;
+    height: 62.5px;
     background-color: black;
     
 }
